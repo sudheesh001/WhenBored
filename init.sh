@@ -10,3 +10,4 @@ source $HOME/.bash/scripts/utils.sh
 
 source $HOME/.bash/scripts/prompt.sh
 
+# lots to fix up!! *sigh*
