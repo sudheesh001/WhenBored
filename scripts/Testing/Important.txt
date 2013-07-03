@@ -1,0 +1,5 @@
+This has been tested on MAC OS X Mavericks
+
+Hacks should be compatible with the previous versions until Tiger.
+
+

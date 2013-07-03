@@ -1,0 +1,24 @@
+Bash
+
+These are SOME bash scripts for daily usage.
+
+Targeted OS :
+
+Mac OS X Mavericks and Below
+
+Next Update :
+
+Windows 8.1 and 8
+Ubuntu & supported Debian (.deb)
+YUM distro support release soon.
+```
+Just clone this repository to `~/.bash` and
+add the following line to your `~/.bash_profile`
+or equivalent file:
+
+  source ~/.bash/init.sh
+  or 
+  . ~/.bash/init.sh
+```
+NOTE: AS OF NOW ITS ONLY ON MAC OS X
+NOTE: Compiling bash files will work except those under Testing folder
